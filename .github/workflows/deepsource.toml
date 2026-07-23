@@ -1,0 +1,8 @@
+version = 1
+
+[[analyzers]]
+name = "cxx"
+enabled = true
+
+[analyzers.meta]
+runtime = "c++17"
